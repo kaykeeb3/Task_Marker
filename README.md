@@ -1,6 +1,6 @@
 <h1 align="center">TodoList</h1>
 
-<p align="center">TodoList é um mardor de tarefas diárias <br/>
+<p align="center">TodoList é um marcador de tarefas diárias <br/>
 </p>
 
 <br>
