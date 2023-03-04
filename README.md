@@ -1,12 +1,12 @@
-<h1 align="center">TodoList</h1>
+<h1 align="center">Task Marker</h1>
 
-<p align="center">TodoList é um marcador de tarefas diárias <br/>
+<p align="center">Task Marker é um marcador de tarefas diárias <br/>
 </p>
 
 <br>
 
 <p align="center">
-  <img alt="Todo app" src="todo.png" width="100%" height="70%">
+  <img alt="Task app" src="todo.png" width="100%" height="70%">
 </p>
 
 ## 🚀 Tecnologias
@@ -22,5 +22,5 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-TodoList facilita a marcação de tarefas diárias feita no dia, sendo 100% editável, para melhor experiência do usuário.
+Task Markerfacilita a marcação de tarefas diárias feita no dia, sendo 100% editável, para melhor experiência do usuário.
 - [Visite o projeto online](https://todo-list-ts-mauve.vercel.app/)
